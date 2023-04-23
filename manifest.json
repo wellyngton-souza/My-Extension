@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "version": "1.0.0",
+    "name": "pwGenerator",
+    "description": "Extenção para gerar contas aleatorias",
+    "author": "wellyngton-souza",
+    "icons": {
+        "16": "./assets/cadeado.png",
+        "48": "./assets/cadeado.png",
+        "128": "./assets/cadeado.png"
+    },
+    "action": {
+        "default_title": "pwGenerator",
+        "default_popup": "index.html"
+    }
+}
